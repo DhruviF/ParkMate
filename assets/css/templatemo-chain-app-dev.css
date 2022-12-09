@@ -1368,8 +1368,8 @@ The Clients
 }
 
 .pricing-item-regular span.price {
-  font-size: 40px;
-  color: #fff;
+  font-size: 32px;
+  color: #001D3D;
   position: absolute;
   font-weight: 700;
   z-index: 1;
@@ -1384,8 +1384,8 @@ The Clients
 }
 
 .pricing-item-regular .icon img {
-  width: 120px;
-  height: 106px;
+  width: 150px;
+  height: 250px;
   margin-bottom: 30px;
 }
 
@@ -1445,8 +1445,8 @@ The Clients
 }
 
 .pricing-item-pro span.price {
-  font-size: 40px;
-  color: #fff;
+  font-size: 32px;
+  color: #001D3D;
   position: absolute;
   font-weight: 700;
   z-index: 1;
@@ -1461,8 +1461,8 @@ The Clients
 }
 
 .pricing-item-pro .icon img {
-  width: 120px;
-  height: 106px;
+  width: 150px;
+  height: 250px;
   margin-bottom: 30px;
 }
 
